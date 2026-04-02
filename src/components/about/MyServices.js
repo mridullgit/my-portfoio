@@ -19,11 +19,6 @@ const MyServices = () => {
         subTitle="I offer web design services focused on creating responsive, visually appealing, and user-friendly interfaces. My designs prioritize accessibility, modern aesthetics, and seamless functionality across devices, ensuring a balanced and optimized user experience."
       />
       <ServicesCard
-        icons={<AiTwotoneAppstore />}
-        title="Mobile Application"
-        subTitle="I offer mobile development services to create responsive, user-friendly applications for iOS and Android. My focus is on delivering seamless, high-performance apps with intuitive interfaces and optimized functionality, ensuring an excellent user experience on all mobile devices."
-      />
-      <ServicesCard
         icons={<FaAppStoreIos />}
         title="SEO"
         subTitle="I provide SEO services designed to enhance your website's visibility and ranking on search engines. My approach includes optimizing content, improving site structure, and implementing best practices to drive organic traffic and ensure a strong online presence."
